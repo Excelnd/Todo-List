@@ -1,8 +1,10 @@
 <html>
 <head>
-    <title>Start Page</title>
+    <title>Welcome</title>
 </head>
 <body>
-<h1>Hello World!</h1>
+    <h1>${helloMessage}</h1>
+    <h2>age parameter is ${age}</h2>
+    <h2>${welcomeMessage}</h2>
 </body>
 </html>
